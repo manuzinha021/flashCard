@@ -21,4 +21,3 @@ criaCartao(
     'Oi em ingles é HI (RAI)'
     )
     
- 
