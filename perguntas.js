@@ -12,7 +12,7 @@ criaCartao(
     
     criaCartao(
     'Curiosidades',
-    'Quem são os donos da Wepink',
+    'Quem são os donos da Wepink?',
     'Virgínia Fonseca e Samara Pink'
     )
     criaCartao(
