@@ -5,7 +5,7 @@ criaCartao(
     )
     
     criaCartao(
-    'Geografia',
+    'Conhecimentos gerais',
     'Quantas pessoas há no mundo?',
     'No mundo há 8,025 bilhões'
     )
